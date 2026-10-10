@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Circulator",
+      "hasCanvas": false,
+      "bodyTextLen": 2003,
+      "bodyTextHash": "af0444279eb2f1ae5a2d7466f13d5199934a6f167d7a35cc8c366eeb1b97ca83",
+      "bodyTextPrefix": "WORKSHOP BENCH Circulator Full history. Smaller prompt. Long job",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Circulator",
+      "hasCanvas": false,
+      "bodyTextLen": 1973,
+      "bodyTextHash": "32e298264f8e4c30971816eac0be9d50649efa815a269c6609241f23b0e6f928",
+      "bodyTextPrefix": "WORKSHOP BENCH Circulator Long jobs fall over when the window fi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
